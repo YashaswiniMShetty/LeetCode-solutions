@@ -8,6 +8,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0001-two-sum](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,4 +17,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
