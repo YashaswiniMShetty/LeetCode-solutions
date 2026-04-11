@@ -27,6 +27,7 @@ Leetcode problems which I have solved.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
 ## Sorting
 |  |
