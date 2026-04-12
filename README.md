@@ -11,6 +11,7 @@ Leetcode problems which I have solved.
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
+| [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +36,16 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
