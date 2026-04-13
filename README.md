@@ -48,4 +48,12 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
