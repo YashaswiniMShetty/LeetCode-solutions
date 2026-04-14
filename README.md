@@ -29,6 +29,7 @@ Leetcode problems which I have solved.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
@@ -51,9 +52,11 @@ Leetcode problems which I have solved.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
