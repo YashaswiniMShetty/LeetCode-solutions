@@ -7,6 +7,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
@@ -59,4 +60,12 @@ Leetcode problems which I have solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
