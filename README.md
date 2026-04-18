@@ -41,6 +41,7 @@ Leetcode problems which I have solved.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
@@ -64,6 +65,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
