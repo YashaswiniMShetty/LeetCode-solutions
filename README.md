@@ -13,6 +13,7 @@ Leetcode problems which I have solved.
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
