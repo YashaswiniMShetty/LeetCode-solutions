@@ -30,6 +30,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ Leetcode problems which I have solved.
 | [0007-reverse-integer](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
