@@ -7,6 +7,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0027-remove-element) |
@@ -23,6 +24,7 @@ Leetcode problems which I have solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -88,4 +90,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
