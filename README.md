@@ -15,6 +15,7 @@ Leetcode problems which I have solved.
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -94,4 +95,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
