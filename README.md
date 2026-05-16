@@ -16,12 +16,14 @@ Leetcode problems which I have solved.
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -99,4 +102,12 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
