@@ -32,6 +32,7 @@ Leetcode problems which I have solved.
 | [0027-remove-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ Leetcode problems which I have solved.
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
+| [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +49,7 @@ Leetcode problems which I have solved.
 | [0009-palindrome-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
