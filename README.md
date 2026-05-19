@@ -85,6 +85,7 @@ Leetcode problems which I have solved.
 | [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
@@ -93,10 +94,12 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1668-maximum-repeating-substring](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
