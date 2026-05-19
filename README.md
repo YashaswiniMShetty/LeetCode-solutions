@@ -23,6 +23,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ Leetcode problems which I have solved.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -116,4 +118,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
