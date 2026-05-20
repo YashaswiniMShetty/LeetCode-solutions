@@ -14,6 +14,7 @@ Leetcode problems which I have solved.
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
@@ -113,6 +114,7 @@ Leetcode problems which I have solved.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -122,4 +124,16 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
