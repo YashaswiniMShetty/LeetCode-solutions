@@ -18,6 +18,7 @@ Leetcode problems which I have solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -26,6 +27,7 @@ Leetcode problems which I have solved.
 | [0001-two-sum](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Tree
 |  |
 | ------- |
