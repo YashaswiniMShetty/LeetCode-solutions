@@ -20,6 +20,7 @@ Leetcode problems which I have solved.
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -30,6 +31,7 @@ Leetcode problems which I have solved.
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +47,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Math
@@ -55,6 +58,7 @@ Leetcode problems which I have solved.
 | [0009-palindrome-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -62,6 +66,7 @@ Leetcode problems which I have solved.
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -116,6 +121,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
