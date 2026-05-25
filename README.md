@@ -23,6 +23,7 @@ Leetcode problems which I have solved.
 | [0228-summary-ranges](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -34,6 +35,7 @@ Leetcode problems which I have solved.
 | [0217-contains-duplicate](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Leetcode problems which I have solved.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -51,6 +54,7 @@ Leetcode problems which I have solved.
 | [0035-search-insert-position](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Math
@@ -70,6 +74,7 @@ Leetcode problems which I have solved.
 | [0169-majority-element](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
