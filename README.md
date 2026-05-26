@@ -26,6 +26,7 @@ Leetcode problems which I have solved.
 | [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ Leetcode problems which I have solved.
 | [0217-contains-duplicate](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -129,6 +131,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,4 +163,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
