@@ -25,6 +25,7 @@ Leetcode problems which I have solved.
 | [0283-move-zeroes](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ Leetcode problems which I have solved.
 | [0219-contains-duplicate-ii](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,10 +83,12 @@ Leetcode problems which I have solved.
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 ## Ordered Set
 |  |
 | ------- |
