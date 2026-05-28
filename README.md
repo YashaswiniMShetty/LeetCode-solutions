@@ -70,6 +70,7 @@ Leetcode problems which I have solved.
 | [0069-sqrtx](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
@@ -106,6 +107,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [1668-maximum-repeating-substring](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -173,4 +176,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
