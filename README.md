@@ -72,6 +72,7 @@ Leetcode problems which I have solved.
 | [0412-fizz-buzz](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0728-self-dividing-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0728-self-dividing-numbers) |
 ## Sorting
 |  |
 | ------- |
