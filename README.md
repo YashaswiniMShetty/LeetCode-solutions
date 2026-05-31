@@ -27,6 +27,7 @@ Leetcode problems which I have solved.
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
+| [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -89,6 +90,7 @@ Leetcode problems which I have solved.
 | [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
 ## Memoization
 |  |
 | ------- |
