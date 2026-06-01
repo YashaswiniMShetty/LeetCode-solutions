@@ -29,6 +29,7 @@ Leetcode problems which I have solved.
 | [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Leetcode problems which I have solved.
 | [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0011-container-with-most-water](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Bit Manipulation
 |  |
 | ------- |
