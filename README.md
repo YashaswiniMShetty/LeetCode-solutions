@@ -29,6 +29,7 @@ Leetcode problems which I have solved.
 | [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
+| [0821-shortest-distance-to-a-character](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
@@ -54,6 +55,7 @@ Leetcode problems which I have solved.
 | [0283-move-zeroes](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -123,6 +125,7 @@ Leetcode problems which I have solved.
 | [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0412-fizz-buzz) |
+| [0821-shortest-distance-to-a-character](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1668-maximum-repeating-substring](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
