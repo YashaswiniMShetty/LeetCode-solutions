@@ -29,6 +29,7 @@ Leetcode problems which I have solved.
 | [0561-array-partition](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
+| [0812-largest-triangle-area](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -79,6 +80,7 @@ Leetcode problems which I have solved.
 | [0509-fibonacci-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0812-largest-triangle-area) |
 ## Sorting
 |  |
 | ------- |
@@ -192,4 +194,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
