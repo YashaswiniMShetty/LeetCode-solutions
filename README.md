@@ -31,6 +31,7 @@ Leetcode problems which I have solved.
 | [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
 | [0812-largest-triangle-area](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
@@ -57,6 +58,7 @@ Leetcode problems which I have solved.
 | [0349-intersection-of-two-arrays](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0821-shortest-distance-to-a-character](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -155,6 +157,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0136-single-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0412-fizz-buzz](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 ## Memoization
 |  |
 | ------- |
@@ -198,4 +202,8 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0812-largest-triangle-area) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
