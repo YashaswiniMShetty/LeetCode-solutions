@@ -175,6 +175,7 @@ Leetcode problems which I have solved.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -183,6 +184,7 @@ Leetcode problems which I have solved.
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Counting Sort
 |  |
@@ -206,4 +208,12 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0832-flipping-an-image) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
