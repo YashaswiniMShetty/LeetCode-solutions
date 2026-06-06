@@ -98,6 +98,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0456-132-pattern](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0682-baseball-game) |
@@ -177,6 +178,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Leetcode problems which I have solved.
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Counting Sort
 |  |
 | ------- |
@@ -212,6 +215,7 @@ Leetcode problems which I have solved.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/YashaswiniMShetty/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
